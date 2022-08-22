@@ -1,1 +1,2 @@
-Hello World!
+## Bio
+Hello! My name is [Zhuoyang Liu](https://www.linkedin.com/in/zhuoyang-l-55143712b/) and I am currently a PhD student in the Operations, Information & Technology group at [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/zhuoyang-liu). I work on sustainable operations under the advise of Prof [Dan Iancu](https://www.gsb.stanford.edu/faculty-research/faculty/dan-andrei-iancu) and [Erica Plambeck](https://www.gsb.stanford.edu/faculty-research/faculty/erica-plambeck).
